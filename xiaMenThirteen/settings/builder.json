@@ -1,0 +1,24 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.slipper.qpxmmj",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "c2f33d9a-3839-4afa-9f5d-2721c9a3bca7",
+  "title": "Game",
+  "webOrientation": "landscape"
+}

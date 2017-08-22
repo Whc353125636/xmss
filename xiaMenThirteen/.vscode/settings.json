@@ -1,0 +1,13 @@
+{
+    "files.autoSave": "onFocusChange",
+    "search.exclude": {
+        "**/node_modules": true
+    },
+    "files.exclude": {
+        "**/library": true,
+        "**/packages": true,
+        "**/temp": true,
+        "**/local": true,
+        "**/*.meta": true
+    }
+}

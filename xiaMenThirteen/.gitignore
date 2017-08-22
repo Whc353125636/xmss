@@ -1,0 +1,12 @@
+/library
+/temp
+/local
+/build/jsb-binary/res
+/build/jsb-binary/src
+/build/jsb-binary/publish
+/build/jsb-binary/main.js
+/build/jsb-binary/project.json
+/remote-assets
+
+.DS_Store
+Thumbs.db
